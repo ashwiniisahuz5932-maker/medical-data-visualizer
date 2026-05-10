@@ -1,2 +1,3 @@
-# medical-data-visualizer
-# Medical Data Visualizer  A data analysis and visualization project built using Python, Pandas, Matplotlib, and Seaborn. The project analyzes medical examination data, performs data cleaning, feature engineering, and generates insightful categorical plots and heatmaps.
+# Medical Data Visualizer
+
+This is the boilerplate for the Medical Data Visualizer project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/medical-data-visualizer
